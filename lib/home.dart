@@ -29,7 +29,7 @@ class _homepageState extends State<homepage> {
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
               SizedBox(
-                height: 20.0,
+                height: 20.1,
               ),
               Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
                 Align(
