@@ -1,16 +1,11 @@
-# nearbybluetooth
+# Nearby Bluetooth Attendance Tracker
 
-A new Flutter project.
+Mark Your Attendance with Nearby Bluetooth.
 
-## Getting Started
+## Screenshot
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2024-05-04 at 22 28 26_94caac07](https://github.com/SudVig/Nearby-Bluetooth-Attendance-Tracker-App/assets/96943194/f77f9f16-2029-4e46-95e5-edacd5de355c)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
